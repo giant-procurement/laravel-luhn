@@ -1,5 +1,5 @@
 {
-  "name": "marvinlabs/laravel-luhn",
+  "name": "giant-procurement/laravel-luhn",
   "description": "Luhn algorithm for Laravel",
   "keywords": [
     "laravel",
